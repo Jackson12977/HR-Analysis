@@ -8,3 +8,5 @@ iii. Number of employees by department
 iv. The age group of employees
 v. Average age and salary of all department
 vi. Years at company by each employee
+
+My major problem wth this dataset is that there was no employ name to drive down the employee's performance
